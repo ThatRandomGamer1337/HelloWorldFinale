@@ -23,6 +23,8 @@ namespace HelloWorldFinale
                 Console.WriteLine(" ");
                 Console.WriteLine("Program by Serena Burnett");
                 Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.WriteLine("the final version of this i promise lol");
             Console.ReadKey(true);
 
             }
